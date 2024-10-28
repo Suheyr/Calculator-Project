@@ -2,12 +2,7 @@ package main
 
 import "fmt"
 
-/*
 
-Build a calculator project that allows the user to enter  2 numbers and the operation wanted. The calculator should show 
-the final result
-
-*/
 
 func performCalculations(n1 float32, n2 float32, o string) float32 {
 
